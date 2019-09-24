@@ -69,12 +69,12 @@ const Details = styled.div`
 const About = () => {
   return (
     <Container>
-      <Intro>Elliott and Sophie were married on a glorious Saturday afternoon in the heart of Sheffield.</Intro>
+      <Intro>Elliott and Sophie were married on a glorious Saturday afternoon in the heart of the city!</Intro>
         <Details>
-          <Detail title="Location" description="Sheffield, UK." />
+          <Detail title="Location" description="Sheffield, England" />
           <Detail title="Date" description="20th July 2019" />
           <Detail title="Venue" description="Inox" />
-          <Detail title="Weather" description="Sunshine" />
+          <Detail title="Weather" description="Suuuuunshiiiiinnneee" />
         </Details>
     </Container>
   )

@@ -77,7 +77,8 @@ export default class Footer extends Component {
       <Container>
         <Flex>
           <Credit>
-            Photography and website by <a href="https://davemullenjnr.co.uk">Dave Mullen Jnr</a>
+            Photography by <a href="https://hamishirvine.com/">Hamish Irvine</a><br />
+            Website by <a href="https://davemullenjnr.co.uk">Dave Mullen Jnr</a>
           </Credit>
           <BackToTop href="#">Back to top</BackToTop>
         </Flex>
