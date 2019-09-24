@@ -1,7 +1,7 @@
 // core
 import React from 'react'
 import styled from 'styled-components'
-import heroImage from '../assets/images/header-background.jpg'
+import heroImage4 from '../assets/images/mr-and-mrs-blake-04.jpg'
 import { variables, typography } from '../theme'
 
 //svg
@@ -11,7 +11,7 @@ import downArrow from '../assets/svg/arrow-thin.svg'
 // styles
 
 const HeroImage = styled.div`
-  background-image: url(${heroImage});
+  background-image: url(${heroImage4});
   background-color: ${variables.green};
   opacity: 1;
   padding: 0;

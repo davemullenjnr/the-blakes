@@ -7,7 +7,7 @@ import { variables } from '../theme';
 const Container = styled.main`
   padding: 0 ${variables.spacer * 2}rem;
   margin: 0 auto;
-  margin-bottom: 0;
+  margin-bottom: ${variables.spacer * 8}rem;
 
   @media ${variables.md} {
     padding: 0 ${variables.spacer * 4}rem;

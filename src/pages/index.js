@@ -5,6 +5,7 @@ import Footer from "../components/footer";
 import Hero from "../components/hero";
 import About from "../components/about";
 import Images from "../components/images";
+import Drive from "../components/drive";
 
 const IndexPage = () => (
   <>
@@ -12,6 +13,7 @@ const IndexPage = () => (
     <Hero />
     <About />
     <Images />
+    <Drive />
     <Footer />
   </>
 )

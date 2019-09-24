@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Mr and Mrs Wilkinson`,
-    description: `Photographs from the wedding of Neil and Amy Wilkinson`,
+    title: `Mr and Mrs Blake`,
+    description: `Photographs from the wedding of Elliott and Sophie Blake`,
     author: `@davemullenjnr`,
     image: `https://thewilkinsons.netlify.com/images/the-wilkinsons-og.jpg`,
     imageWidth: `1920`,
     imageHeight: `960`,
-    url: `https://thewilkinsons.netlify.com/`
+    url: `https://theblakes.netlify.com/`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -22,8 +22,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `mr-and-mrs-wilkinson`,
-        short_name: `the-wilkinsons`,
+        name: `mr-and-mrs-blake`,
+        short_name: `the-blakes`,
         start_url: `/`,
         background_color: `#665E5C`,
         theme_color: `#E7D0CD`,

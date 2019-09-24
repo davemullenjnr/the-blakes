@@ -1,6 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9d4cacd3-d1dc-4b9a-aa21-c8f8b6eb0ec4/deploy-status)](https://app.netlify.com/sites/thewilkinsons/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c4fc14b3-36ba-4f71-b267-fad1ef2bd4c5/deploy-status)](https://app.netlify.com/sites/theblakes/deploys)
 
 ## Mr and Mrs Blake
 
 Photographs from Elliott and Sophie's wedding.
-[https://thewilkinsons.netlify.com](https://thewilkinsons.netlify.com)
+[https://theblakes.netlify.com](https://theblakes.netlify.com)
