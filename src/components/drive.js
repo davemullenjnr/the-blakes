@@ -76,7 +76,7 @@ const Drive = () => {
         <Paragraph>
           View the entire collection and download high resolution versions of the photographs.
         </Paragraph>
-        <Button href="/">Link to full collection</Button>
+        <Button href="https://drive.google.com/drive/folders/1y1qWA6JTdYTtQPoEZfCJ8qKzinHXGWps" target="_blank">Link to full collection</Button>
       </Container>
     </Wrapper>
   )
