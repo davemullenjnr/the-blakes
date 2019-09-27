@@ -3,7 +3,7 @@ module.exports = {
     title: `Mr and Mrs Blake`,
     description: `Photographs from the wedding of Elliott and Sophie Blake`,
     author: `@davemullenjnr`,
-    image: `https://thewilkinsons.netlify.com/images/the-wilkinsons-og.jpg`,
+    image: `https://thewilkinsons.netlify.com/images/the-blakes-og.jpg`,
     imageWidth: `1920`,
     imageHeight: `960`,
     url: `https://theblakes.netlify.com/`
@@ -34,7 +34,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-56108422-2",
+        trackingId: "UA-56108422-3",
       },
     },
     `gatsby-plugin-styled-components`,
