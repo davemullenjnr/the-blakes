@@ -79,7 +79,7 @@ body {
   font-weight: normal;
   font-size: 16px;
   line-height: 1.5;
-  color: #665E5C;
+  color: #4F5C51;
   background-color: white;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -117,8 +117,8 @@ img {
 }
 
 ::selection {
-  background: #E7D0CD;
-  color: #665E5C;
+  background: #d9e2d7;
+  color: #4F5C51;
 }
 
 article,

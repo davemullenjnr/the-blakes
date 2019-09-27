@@ -53,7 +53,7 @@ const Images = () => (
     render={data => (
         <Container>
           {data.source.edges.map(({ node }, i) => (
-              <Image key={i} fluid={node.childImageSharp.fluid} backgroundColor="rgba(240, 233, 233, 1)" />
+              <Image key={i} fluid={node.childImageSharp.fluid} backgroundColor="rgba(214, 224, 213, 1)" />
           ))}
         </Container>
     )}
